@@ -1,4 +1,4 @@
-# DevelopersHub-Internship-Tasks
+# DevelopersHub-Internship
 Data Science Internship Tasks using Python and Machine Learning
 
 This repository contains all tasks completed during my Data Science Internship.
